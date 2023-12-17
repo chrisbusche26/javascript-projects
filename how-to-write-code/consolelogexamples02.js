@@ -1,3 +1,6 @@
 console.log("Some Programming Languages:");
 
-console.log("Python\nJavaScript\nJava\nC#\nSwift");
+console.log("\tPython\n\tJavaScript\n\tJava\n\tC#\n\tSwift");
+
+// "\t" adds indents
+// "\n" starts a new line
