@@ -9,4 +9,11 @@
    multi-line
    comments. */
 
-   console.log("Comments make your code more readable by others.");
+console.log("Comments make your code more readable by others.");
+   
+// Comments are easy!
+
+/* What if
+we put words
+on separate 
+lines */
