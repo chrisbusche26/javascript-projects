@@ -18,6 +18,7 @@ if (fuelLevel >= 20000) {
 }
 
 console.log("launchReady = ", launchReady);
+//launchReady should be false but is changed back to true in the next block.
 
 if (crewStatus && computerStatus === 'green'){
    console.log('Crew & computer cleared.');
