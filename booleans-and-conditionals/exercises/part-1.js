@@ -1,5 +1,5 @@
 // Declare and initialize the variables for exercise 1 here:
-let engineIndicatorLight = "green blinking";
+let engineIndicatorLight = "red blinking";
 let spaceSuitsOn = true;
 let shuttleCabinReady = true;
 let crewStatus = spaceSuitsOn && shuttleCabinReady;
