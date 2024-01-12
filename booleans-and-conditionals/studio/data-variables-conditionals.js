@@ -55,9 +55,3 @@ if (astronautCount <= 7) {
         }
     }
 }
-
-
-
-
-
-
