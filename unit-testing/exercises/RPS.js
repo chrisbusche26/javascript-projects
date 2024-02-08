@@ -17,4 +17,6 @@ function whoWon(player1,player2){
    }
  
    return 'Player 1 wins!';
- }
+}
+console.log(whoWon('paper','scissors'));
+module.exports = { whoWon: whoWon };
