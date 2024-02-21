@@ -39,6 +39,7 @@ let gator = new CrewCandidate("Glad Gator", 225, [75, 78, 62]);
 while (gator.average() < 90) {
     gator.addScore(100);
 }
+
 console.log(gator.scores);
 //console.log(bubbaBear);
 //console.log(merry.average());
